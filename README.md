@@ -15,6 +15,3 @@ A Java-based console application for managing hospital operations, including pat
 - Database: MySQL (Localhost)
 - Database Connectivity: JDBC
 - IDE Used: IntelliJ IDEA
-
-## 📁 Project Structure
-
